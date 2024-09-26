@@ -13,7 +13,7 @@ We are 1st project team from Spharos Academy 5th <br></br> which is education pr
 Our team's topic was to rebuild a Starbucks store based on a design that took into account the large amount of data of more than 1 million daily users.
 
 
-## 팀원 소개
+## 팀원 소개 (Introduce Our team)
   
 ### [김유석 (YuSeok Kim)](https://github.com/yuseok-kim-edushare)
  - 팀장 (Team Leader)
