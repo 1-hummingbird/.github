@@ -21,9 +21,9 @@ Our team's topic was to rebuild a Starbucks store based on a design that took in
  	- AWS EC2
   	- DNS and TLS Certificate managing
  	- CI/CD (Back & Front)
-  		- Github Actions
-    		- Vercel
-    		- Docker
+		- Github Actions
+		- Vercel
+		- Docker
  - BackEnd Developer
 	 - 보안, 회원, 배송지
 	 - Auth, Member, Shipping Address
