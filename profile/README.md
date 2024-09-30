@@ -31,21 +31,27 @@ Our team's topic was to rebuild a Starbucks store based on a design that took in
  - FrontEnd Developer (Debuging, API linking)
 
 ### [김재훈 (JaeHoon Kim)](https://github.com/rlawogns123)
+![그림2](https://github.com/user-attachments/assets/e4289097-889d-4be8-83ac-0bd929ea3981)
+
 - FrontEnd Developer
 	- 메인 페이지, 회원가입, 로그인, 소셜로그인, 상품 상세 페이지, 리뷰
 	- Main Page, Register, Login, Social Login(Oauth login), Product Detail Page, Reivew
 
 ### [송경민 (KyungMin Song)](https://github.com/digetlyn)
+
 - BackEnd Developer
 	- Shipping Address (배송지)
 	- Documentizing (문서화)
 
 ### [엄현식 (HyunSik Eom)](https://github.com/eomhyunsik)
+![KakaoTalk_20240926_093644524](https://github.com/user-attachments/assets/00130801-e145-4c0d-88c6-c5f7cbb7d0f0)
 - FrontEnd Developer
 	- 상품 목록, 장바구니, 마이페이지, 검색 입력 모달, 위시리스트, 주문/결제, 배송지
 	- Product List, Cart, MyPage, Modal which get search keyward from user, wishlist, purchase, shipping address
 
 ### [허정현 (JungHyun Heo)](https://github.com/Jung-Hey)
+![KakaoTalk_20240926_093533062](https://github.com/user-attachments/assets/76b4557c-1d63-4b5c-a3a2-807a0c41996a)
+
 - BackEnd Developer
 	- 상품, 리뷰, 장바구니, 배너, 기획전, 주문, 베스트 상품
 	- Product, Review, Cart, Banner(in main page), Exhibitions, Purchase, Best(in product)
