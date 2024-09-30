@@ -16,6 +16,7 @@ Our team's topic was to rebuild a Starbucks store based on a design that took in
 ## 팀원 소개 (Introduce Our team)
   
 ### [김유석 (YuSeok Kim)](https://github.com/yuseok-kim-edushare)
+![그림1](https://github.com/user-attachments/assets/bacfd100-509d-49da-a408-f337e536f254)
  - 팀장 (Team Leader)
  - DevOps
  	- AWS EC2
