@@ -29,7 +29,10 @@ Our team's topic was to rebuild a Starbucks store based on a design that took in
 	 - 보안, 회원, 배송지
 	 - Auth, Member, Shipping Address
  - FrontEnd Developer (Debuging, API linking)
- 	- 배송지 관리 API 연결, 상품 검색 API 연결
+ 	- 배송지 관리 API 연결, 상품 검색 API, 최근 검색어 API 연결
+  	- 상품 검색 결과 페이지
+   	- Api link to (delivery address managing, product search, recent search keyward managing)
+   	- Product Search Result Page
 
 ### [김재훈 (JaeHoon Kim)](https://github.com/rlawogns123)
 <img src="https://github.com/user-attachments/assets/e4289097-889d-4be8-83ac-0bd929ea3981" width="200"></img>
