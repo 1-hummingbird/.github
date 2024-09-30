@@ -75,8 +75,8 @@ Our team's topic was to rebuild a Starbucks store based on a design that took in
 
 
 ## EventStorming
-![image](https://github.com/user-attachments/assets/6609a045-75d9-4d17-852b-0b81c7041ee4)
-![image](https://github.com/user-attachments/assets/e1660241-666c-42be-8af1-e12c56678f2e)
+<img src="https://github.com/user-attachments/assets/6609a045-75d9-4d17-852b-0b81c7041ee4" width="500"></img>
+<img src="https://github.com/user-attachments/assets/e1660241-666c-42be-8af1-e12c56678f2e" width="500"></img>
 [Figma](https://www.figma.com/board/rrtB8uxFDGFZWRuvS34qqZ/%EC%8A%A4%ED%8C%8C%EB%A1%9C%EC%8A%A4-5%EA%B8%B0%2C-Pj%2301-%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4-%ED%81%B4%EB%A1%A0-%EC%BD%94%EB%94%A9(6%EC%A1%B0)?node-id=0-1&t=L0VQvqDPaW1FnuF7-1)
 
 ## API Definitions(API 정의서)
