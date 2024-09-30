@@ -29,6 +29,7 @@ Our team's topic was to rebuild a Starbucks store based on a design that took in
 	 - 보안, 회원, 배송지
 	 - Auth, Member, Shipping Address
  - FrontEnd Developer (Debuging, API linking)
+ 	- 배송지 관리 API 연결, 상품 검색 API 연결
 
 ### [김재훈 (JaeHoon Kim)](https://github.com/rlawogns123)
 ![그림2](https://github.com/user-attachments/assets/e4289097-889d-4be8-83ac-0bd929ea3981)
@@ -38,7 +39,7 @@ Our team's topic was to rebuild a Starbucks store based on a design that took in
 	- Main Page, Register, Login, Social Login(Oauth login), Product Detail Page, Reivew
 
 ### [송경민 (KyungMin Song)](https://github.com/digetlyn)
-
+![KakaoTalk_20240926_094329695](https://github.com/user-attachments/assets/25ab47c2-86f1-42ad-804c-bc1ab81ebe14)
 - BackEnd Developer
 	- Shipping Address (배송지)
 	- Documentizing (문서화)
