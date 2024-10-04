@@ -31,15 +31,15 @@ Our team's topic was to rebuild a Starbucks store based on a design that took in
  - FrontEnd Developer (Debuging, API linking)
  	- 배송지 관리 API 연결, 상품 검색 API, 최근 검색어 API 연결
   	- 상품 검색 결과 페이지
-   	- Api link to (delivery address managing, product search, recent search keyward managing)
-   	- Product Search Result Page
+   	- Api link to (delivery address managing, product search, recent search keyward managing, new products, best products)
+   	- Product Search Result Page, product list by category page, best product list by category page
 
 ### [김재훈 (JaeHoon Kim)](https://github.com/rlawogns123)
 <img src="https://github.com/user-attachments/assets/e4289097-889d-4be8-83ac-0bd929ea3981" width="200"></img>
 
 - FrontEnd Developer
-	- 메인 페이지, 회원가입, 로그인, 소셜로그인, 상품 상세 페이지, 리뷰
-	- Main Page, Register, Login, Social Login(Oauth login), Product Detail Page, Reivew
+	- 메인 페이지, Next Auth: {회원가입, 로그인, 소셜로그인}, 상품 상세 페이지, 리뷰
+	- Main Page, Next Auth: {Register, Login, Social Login(Oauth login)}, Product Detail Page, Reivew
 
 ### [송경민 (KyungMin Song)](https://github.com/digetlyn)
 <img src="https://github.com/user-attachments/assets/25ab47c2-86f1-42ad-804c-bc1ab81ebe14" width="200"></img>
@@ -50,8 +50,8 @@ Our team's topic was to rebuild a Starbucks store based on a design that took in
 ### [엄현식 (HyunSik Eom)](https://github.com/eomhyunsik)
 <img src="https://github.com/user-attachments/assets/00130801-e145-4c0d-88c6-c5f7cbb7d0f0" width="200"></img>
 - FrontEnd Developer
-	- 상품 목록, 장바구니, 마이페이지, 검색 입력 모달, 위시리스트, 주문/결제, 배송지
-	- Product List, Cart, MyPage, Modal which get search keyward from user, wishlist, purchase, shipping address
+	- 전체 상품 목록, 장바구니, 마이페이지, 검색 입력 모달, 위시리스트, 주문/결제, 배송지
+	- All Product List, Cart, MyPage, Modal which get search keyward from user, wishlist, purchase, shipping address
 
 ### [허정현 (JungHyun Heo)](https://github.com/Jung-Hey)
 <img src="https://github.com/user-attachments/assets/76b4557c-1d63-4b5c-a3a2-807a0c41996a" width="200"></img>
