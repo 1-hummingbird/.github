@@ -12,6 +12,8 @@
 We are 1st project team from Spharos Academy 5th <br></br> which is education program provided by [Shinsegae.I&C](https://shinsegae-inc.com/) and [Busan Metropolitan City](busan.go.kr) 
 Our team's topic was to rebuild a Starbucks store based on a design that took into account the large amount of data of more than 1 million daily users.
 
+**0. 실행을 원하시면 각 레포지토리의 릴리즈를 참고해주세요.**
+**0. If you want run our app on your env. to read each repo's release section**
 
 ## 팀원 소개 (Introduce Our team)
   
@@ -101,3 +103,4 @@ Our team's topic was to rebuild a Starbucks store based on a design that took in
 
 
 > Written with [StackEdit](https://stackedit.io/).
+
